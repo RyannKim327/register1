@@ -1,6 +1,6 @@
 
 > [!NOTE]
->OPEN DOMAINS HAS MOVED TO [https://manage.open-domains.com/](https://manage.open-domains.com/)
+>OPEN DOMAINS HAS MOVED TO [https://opendomains.andrewstech.me/](https://opendomains.andrewstech.me/)
 >
 > If you already have a domain then login and click migrate from github. If you choose not to migrate then your records will stay active but you will be unable to edit them. 
 
